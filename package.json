@@ -1,0 +1,12 @@
+{
+  "name": "memwatch-test",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "idle-gc": "^1.0.1",
+    "memwatch-next": "^0.3.0",
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
